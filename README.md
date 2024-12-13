@@ -11,5 +11,5 @@ During the exam period, a peer of ours shared an archive of the LM site in the f
 
 The purposes of creating this repository are as follows:
 - To archive part of the original site's content that was successfully captured.
-- To provide an overview of Independent Practice materials for Calculus 1 at UPN.
+- To provide an overview of Independent Practice materials for Calculus 1 at Indonesia Open University (Universitas Terbuka).
 - To serve as an alternative to lm.upn.ac.id, which had been abandoned and unmaintained, although this is specifically for Calculus 1 only.
